@@ -7,8 +7,13 @@ LICENSE: [MIT](license.md)
 ---
 
 ### Содержание:
-1.[Gitconfig](/gitconfig.md)
-
+1. [Gitconfig](/gitconfig.md)
+2. [Gitadd](/gitadd.md)
+3. [Gitclone](/gitclone.md)
+4. [Gitcommit](/gitcommit.md)
+5. [Gitinit](/gitinit.md)
+6. [Gitremote](/gitremote.md)
+7. [Gitstatus](/gitstatus.md)
 
 ---
 
